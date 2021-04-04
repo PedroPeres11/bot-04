@@ -1,5 +1,5 @@
 
-const help = (prefix) => { 
+const help = (.) => { 
 	return `                 
 ┏━━❉ *About Bot* ❉━━┓
 ┣⊱ *${prefix}owner*
